@@ -1,0 +1,1 @@
+Official website for the third edition of the workshop **FAILED**: Fairness and Ethics Towards Transparent AI: Facing the Challenge Through Model Debiasing. A satellite event of ECCV 2026 in Malmö, Sweden.

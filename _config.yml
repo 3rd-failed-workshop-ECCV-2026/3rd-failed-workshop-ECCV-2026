@@ -1,0 +1,28 @@
+# Jekyll workshop-template evanwill
+# https://github.com/evanwill/workshop-template
+# based on minima theme https://github.com/jekyll/minima
+
+# Site settings
+title: "Third Workshop on Fairness and Ethics Towards Transparent AI: Facing the Challenge Through Model Debiasing (FAILED)"
+subtitle: "Workshop at ECCV 2026, Malmö, Sweden"
+description: "Workshop at the European Conference on Computer Vision 2026"
+keywords: "Fairness, Bias, Debiasing, Computer Vision, ECCV 2026, Transparent AI"
+
+# Add the full URL for the GitHub repository.
+# Update this if the repository name has changed for the ECCV 2026 edition.
+repo: ""
+
+# Site URLs.
+# Update this if you created a new GitHub Pages site for ECCV 2026.
+url: 
+baseurl: /
+
+google-analytics-id:
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+markdown: kramdown
