@@ -8,13 +8,10 @@ subtitle: "Workshop at ECCV 2026, Malmö, Sweden"
 description: "Workshop at the European Conference on Computer Vision 2026"
 keywords: "Fairness, Bias, Debiasing, Computer Vision, ECCV 2026, Transparent AI"
 
-# Add the full URL for the GitHub repository.
-# Update this if the repository name has changed for the ECCV 2026 edition.
-repo: ""
+repo: "3rd-failed-workshop-ECCV-2026"
 
 # Site URLs.
-# Update this if you created a new GitHub Pages site for ECCV 2026.
-url: 
+url: 3rd-failed-workshop-ECCV-2026.github.io
 baseurl: /
 
 google-analytics-id:
