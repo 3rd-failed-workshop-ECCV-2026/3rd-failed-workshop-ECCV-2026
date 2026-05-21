@@ -8,11 +8,10 @@ subtitle: "Workshop at ECCV 2026, Malmö, Sweden"
 description: "Workshop at the European Conference on Computer Vision 2026"
 keywords: "Fairness, Bias, Debiasing, Computer Vision, ECCV 2026, Transparent AI"
 
-repo: "3rd-failed-workshop-ECCV-2026"
+repo: "https://github.com/3rd-failed-workshop-ECCV-2026/3rd-failed-workshop-ECCV-2026"
 
-# Site URLs.
-url: 3rd-failed-workshop-ECCV-2026.github.io
-baseurl: /
+url: "https://3rd-failed-workshop-ECCV-2026.github.io"
+baseurl: "/3rd-failed-workshop-ECCV-2026"
 
 google-analytics-id:
 
