@@ -24,7 +24,7 @@ nav: true
 
   <div style="padding:18px; border:1px solid #e5e7eb; border-radius:18px; background:#fff; box-shadow:0 4px 14px rgba(0,0,0,0.07); text-align:center;">
     <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=GHJYsLEAAAAJ&citpid=7" alt="Jaegool Choo" width="150" height="150" style="width:150px; height:150px; border-radius:50%; object-fit:cover; box-shadow:0 4px 12px rgba(0,0,0,0.15); margin-bottom:12px;">
-    <a href="https://sites.google.com/site/jaegulchoo/" style="text-decoration:none; font-weight:600;">Jaegool Choo</a>
+    <a href="https://sites.google.com/site/jaegulchoo/" style="text-decoration:none; font-weight:600;">Jaegul Choo</a>
   </div>
 
   <div style="padding:18px; border:1px solid #e5e7eb; border-radius:18px; background:#fff; box-shadow:0 4px 14px rgba(0,0,0,0.07); text-align:center;">
