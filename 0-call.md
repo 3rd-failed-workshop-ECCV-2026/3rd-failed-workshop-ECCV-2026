@@ -21,7 +21,7 @@ We welcome the submissions of original and high-quality papers including (but no
 * Pruning for model debiasing;
 * Brave new ideas for learning with biased data and fairness.
 
-## Important tentative dates
+## Important dates
 
 * Regular Paper and Extended abstract submission deadline: **24th June 2026** (11:59 PM CET)
 * Decision to Authors: **24th July 2026** (11:59 PM CET)
@@ -29,7 +29,7 @@ We welcome the submissions of original and high-quality papers including (but no
 
 ## Submission portal
 
-* Submission site will be open soon 
+* Submissions are currently open and handled via the OpenReview workshop submission [website](https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/FAILED)
   
 ## Submission format
 
